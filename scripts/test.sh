@@ -1,1 +1,1 @@
-echo "Hello form tests !!"
+echo "Hello form TEST !!"
